@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLConnectionOperation.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFNetworkReachabilityManager.h
+END
+UIKit+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIKit+AFNetworking.h
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLConnectionOperation.m
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFNetworkReachabilityManager.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFHTTPSessionManager.h
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLResponseSerialization.h
+END
+UIProgressView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIProgressView+AFNetworking.h
+END
+UIRefreshControl+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIRefreshControl+AFNetworking.h
+END
+UIAlertView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIAlertView+AFNetworking.h
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLResponseSerialization.m
+END
+UIProgressView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIProgressView+AFNetworking.m
+END
+UIRefreshControl+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIRefreshControl+AFNetworking.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFSecurityPolicy.h
+END
+UIAlertView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIAlertView+AFNetworking.m
+END
+UIWebView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIWebView+AFNetworking.h
+END
+UIButton+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIButton+AFNetworking.h
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFSecurityPolicy.m
+END
+UIImageView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIImageView+AFNetworking.h
+END
+AFNetworkActivityIndicatorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFNetworkActivityIndicatorManager.h
+END
+UIWebView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIWebView+AFNetworking.m
+END
+UIButton+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIButton+AFNetworking.m
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLSessionManager.h
+END
+UIImageView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIImageView+AFNetworking.m
+END
+AFNetworkActivityIndicatorManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFNetworkActivityIndicatorManager.m
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFHTTPRequestOperationManager.h
+END
+UIActivityIndicatorView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIActivityIndicatorView+AFNetworking.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLSessionManager.m
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLRequestSerialization.h
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFHTTPRequestOperation.h
+END
+AFHTTPRequestOperationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFHTTPRequestOperationManager.m
+END
+UIActivityIndicatorView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/UIActivityIndicatorView+AFNetworking.m
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFURLRequestSerialization.m
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2eman/!svn/ver/126/ClipHay/Media/Media/Resources/Libs/AFNetworking/AFHTTPRequestOperation.m
+END
